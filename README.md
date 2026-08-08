@@ -19,7 +19,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 **Completed: 2 / 50**
 
 ```
-[                    ] 0%
+[                    ] 5%
 ```
 
 ---
