@@ -16,9 +16,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 
 ## 📈 Progress
 
-![Progress](https://img.shields.io/badge/Progress-3%2F50-blue)
 
-```
 
 ---
 
@@ -96,13 +94,3 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 ---
 
 ⭐ If you're also grinding SQL 50, feel free to fork this and track your own progress!
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0570-managers-with-at-least-5-direct-reports](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
-| [0584-find-customer-referee](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0584-find-customer-referee) |
-| [1757-recyclable-and-low-fat-products](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
-<!---LeetCode Topics End-->
