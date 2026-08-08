@@ -16,7 +16,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 
 ## 📈 Progress
 
-
+![Progress](https://img.shields.io/badge/Progress-3%2F50-blue)
 
 ---
 
@@ -24,7 +24,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 
 | # | Title | Difficulty | Topics | Solution |
 |---|-------|------------|--------|----------|
-| 1 | Recyclable and Low Fat Products | Easy | Filtering | |
+| 1 | Recyclable and Low Fat Products | Easy | Filtering |  |
 | 2 | Find Customer Referee | Easy | Filtering | |
 | 3 | Big Countries | Easy | Filtering | |
 | 4 | Article Views I | Easy | Filtering | |
