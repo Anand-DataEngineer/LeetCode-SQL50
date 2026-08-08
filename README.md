@@ -104,5 +104,6 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
