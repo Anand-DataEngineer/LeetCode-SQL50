@@ -16,12 +16,8 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 
 ## 📈 Progress
 
-![Progress](https://img.shields.io/badge/Progress-2%2F50-blue)
+![Progress](https://img.shields.io/badge/Progress-3%2F50-blue)
 
-**Completed: 2 / 50**
-
-```
-[                    ] 5%
 ```
 
 ---
