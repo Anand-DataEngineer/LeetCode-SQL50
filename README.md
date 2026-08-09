@@ -94,3 +94,11 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 ---
 
 ⭐ If you're also grinding SQL 50, feel free to fork this and track your own progress!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0595-big-countries) |
+<!---LeetCode Topics End-->
