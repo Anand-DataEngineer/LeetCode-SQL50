@@ -101,5 +101,6 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0595-big-countries) |
+| [1527-patients-with-a-condition](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
