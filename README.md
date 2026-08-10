@@ -104,4 +104,5 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [1148-article-views-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1667-fix-names-in-a-table) |
+| [1683-invalid-tweets](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
