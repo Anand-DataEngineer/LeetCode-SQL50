@@ -104,6 +104,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1667-fix-names-in-a-table) |
