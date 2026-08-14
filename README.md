@@ -116,4 +116,5 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [1661-average-time-of-process-per-machine](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1683-invalid-tweets) |
+| [1907-count-salary-categories](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
