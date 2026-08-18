@@ -103,6 +103,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [0176-second-highest-salary](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0595-big-countries) |
