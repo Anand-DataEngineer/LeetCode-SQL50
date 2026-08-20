@@ -4,10 +4,10 @@
 select
     customer_id,
     count(*) as total_orders,
-    Round(sum(case when time(order_timestamp) between '11:00:00' and '14:00:00' or time(order_timestamp) between '18:00:00' and '21:00:00'
+    Round(avg(case when time(order_timestamp) between '11:00:00' and '14:00:00' or time(order_timestamp) between '18:00:00' and '21:00:00'
              then 1 
              else 0
-        end)/count(*) * 100 , 0) as peak_hour_percentage,
+        end) * 100 , 0) as peak_hour_percentage,
     Round(avg(order_rating),2) as average_rating
 from restaurant_orders
 group by customer_id 
