@@ -122,6 +122,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [1667-fix-names-in-a-table](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1683-invalid-tweets) |
 | [1907-count-salary-categories](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1907-count-salary-categories) |
+| [3421-find-students-who-improved](https://github.com/Anand-DataEngineer/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/Anand-DataEngineer/LeetCode/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/Anand-DataEngineer/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 <!---LeetCode Topics End-->
