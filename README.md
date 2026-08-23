@@ -109,6 +109,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [0595-big-countries](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0626-exchange-seats) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1148-article-views-i) |
 | [1321-restaurant-growth](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1321-restaurant-growth) |
