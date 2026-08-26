@@ -114,6 +114,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1148-article-views-i) |
+| [1158-market-analysis-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1158-market-analysis-i) |
 | [1321-restaurant-growth](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1341-movie-rating) |
