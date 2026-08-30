@@ -116,6 +116,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [0627-swap-sex-of-employees](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1068-product-sales-analysis-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1158-market-analysis-i) |
 | [1321-restaurant-growth](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1321-restaurant-growth) |
