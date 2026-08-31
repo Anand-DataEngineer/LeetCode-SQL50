@@ -135,6 +135,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [1934-confirmation-rate](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anand-DataEngineer/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3220-odd-and-even-transactions](https://github.com/Anand-DataEngineer/LeetCode/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/Anand-DataEngineer/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/Anand-DataEngineer/LeetCode/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/Anand-DataEngineer/LeetCode/tree/master/3497-analyze-subscription-conversion) |
