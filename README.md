@@ -145,4 +145,5 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [3421-find-students-who-improved](https://github.com/Anand-DataEngineer/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/Anand-DataEngineer/LeetCode/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/Anand-DataEngineer/LeetCode/tree/master/3497-analyze-subscription-conversion) |
+| [3586-find-covid-recovery-patients](https://github.com/Anand-DataEngineer/LeetCode/tree/master/3586-find-covid-recovery-patients) |
 <!---LeetCode Topics End-->
