@@ -136,6 +136,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [1667-fix-names-in-a-table](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1890-the-latest-login-in-2020) |
