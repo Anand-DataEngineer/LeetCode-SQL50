@@ -111,6 +111,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/Anand-DataEngineer/LeetCode/tree/master/0620-not-boring-movies) |
