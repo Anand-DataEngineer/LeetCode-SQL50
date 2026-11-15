@@ -123,6 +123,7 @@ This repository tracks my progress through LeetCode's SQL 50 study plan — a cu
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1158-market-analysis-i) |
+| [1179-reformat-department-table](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1179-reformat-department-table) |
 | [1321-restaurant-growth](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Anand-DataEngineer/LeetCode/tree/master/1341-movie-rating) |
